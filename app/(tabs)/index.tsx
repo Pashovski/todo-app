@@ -4,6 +4,7 @@ import {
   Pressable,
   SafeAreaView,
   StyleSheet,
+  Text,
   TextInput,
   View,
 } from 'react-native';
@@ -70,7 +71,7 @@ export default function TasksScreen() {
           style={[styles.addButton, { backgroundColor: themeColors.tint }]}
           onPress={addTodo}
         >
-          <ThemedText style={styles.addButtonText}>Add</ThemedText>
+          <Text style={styles.addButtonText}>Add</Text>
         </Pressable>
       </View>
 
