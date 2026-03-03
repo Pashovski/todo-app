@@ -154,14 +154,15 @@ const styles = StyleSheet.create({
     fontSize: 16,
   },
   addButton: {
+    height: 44,
     paddingHorizontal: 16,
-    paddingVertical: 10,
     borderRadius: 8,
     justifyContent: 'center',
     alignItems: 'center',
   },
   addButtonText: {
     fontWeight: '600',
+    fontSize: 16,
     color: '#fff',
   },
   todoItem: {

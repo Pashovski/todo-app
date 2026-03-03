@@ -193,3 +193,7 @@ Use React Native Reanimated for animations. Imported from 'react-native-reanimat
 - [Expo Router Guide](https://docs.expo.dev/router/introduction/)
 - [React Native API Reference](https://reactnative.dev/docs/components-and-apis)
 - [SF Symbols for iOS](https://developer.apple.com/sf-symbols/) (used via expo-symbols)
+
+## Development Preferences
+
+- **Git Workflow**: Do not push to GitHub automatically. User will push manually when ready using `git push`.
